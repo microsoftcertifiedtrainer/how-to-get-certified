@@ -19,7 +19,19 @@ In this guide, we will walk through the steps to earn a Microsoft Certified Prof
   - Enter payment details.
 
   - Submit the completed online form.
+
+- Study for the exam! Study resources may include:
+
+    - Microsoft Official Courseware
     
+    - Microsoft Virtual Academy
+    
+    - Channel 9
+    
+    - Microsoft Press Exam Prep Books
+    
+    - Community Forums & Blogs
+
 - Travel to the testing center on the scheduled date and time to take the exam.
 
   > **Note**: You may wish to arrive at the testing center early so that you won't miss your scheduled time.
